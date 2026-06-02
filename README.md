@@ -30,7 +30,6 @@ O código foi estruturado seguindo as melhores práticas de desenvolvimento, sep
 ├── tests/
 │   └── test_pipeline.py  # Suíte de testes automatizados com dados reais
 └── .gitignore            # Proteção contra versionamento de caches do Python
-
 ---
 
 ## Tecnologias e Execução
